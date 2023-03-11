@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.21",
+    "yargs": "^17.7.1"
+  }
+}
